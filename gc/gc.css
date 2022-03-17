@@ -1,0 +1,123 @@
+body, .page, #lobbyContent, #gcbooster_cabecalho, #footer, .hasTopBar, .sitemap, .SettingsMenu__dropdown {
+  color: #ffffff !important;
+  background-color: rgb(31, 31, 31) !important;
+  border: none !important;
+  background-image: none !important;
+}
+#GCFriendsMenu, .FilterLobby_main__23Z64, .gcf-room-player-content, .gcf-chat-list, #matchMainContainer, .Background-ik0cxt-1, .Content-kf4i5u-3, .sala-lineup, .jhdqPn, .Container-ix1vut-1, .pnpma, .Container-sj85k8-0, .Container-ix1vut-1, .Tooltip, .GamersClubCSApp, .gc-profile , .main-wrap, .home-secondary, .PlayNow__dropdown--visible, .NotificationList {
+  background-color: rgba(31, 31, 31, 0.788) !important;
+  background-image: rgba(31, 31, 31, 0.788) !important;
+  border: none !important;
+}
+.body-wrap, .body-page, .LobbyRoomLvlRestriction, .gcf-chat-item-header, #sendMessageBox, .scroll-bar, .home-content, .RankingRankedContent-sc-1dc0liv-0, .RankingList, .RankingFilter, .RankingHeader, .gcf-chat-item {
+  background-color: rgba(31, 31, 31, 0.589) !important;
+  background-image: rgba(31, 31, 31, 0.589) !important;
+  border: none !important;
+}
+.FilterLobby_slider__2oL3L, .sidebar-sala, .SidebarLobby__actions, .SidebarLobby__skillLevel, .SidebarLobby__preVeto, .sidebar-desafios, .simplebar-content, .Container-sc-1cvil0l-0, .ContentSection-sc-57v5gh-3, .CoinsFloatingContainer, .WasdCardBody {
+  background-color: rgb(20, 20, 20) !important;
+  background-image: rgb(20, 20, 20) !important;
+  border: none !important;
+}
+.sala-card-content, .sala-lineup-imagem-placeholder, .FilterLobby_sliderTrack__19MqX, .FilterLobby_checkmark__2-_1D, .btn-info:hover {
+  background-color: rgba(255, 0, 0, 0.315) !important;
+  background-image: rgba(255, 0, 0, 0.315) !important;
+  border: none !important;
+}
+.gc-profile-box, .gc-profile-box-half, .main-section {
+  background-image: linear-gradient(rgba(255, 0, 0, 0.2), rgba(31, 31, 31, 1)) !important;
+  border: none !important;
+}
+.sala-lineup-imagem-placeholder, .LobbyHeader, .SettingsMenu__Menu {
+  background-color: rgb(82, 0, 0) !important;
+  border: none !important;
+}
+.FilterLobby_sliderTrack__19MqX span, .gcf-circular-btn-icon {
+  background-color: rgb(255, 0, 0) !important;
+  border: none !important;
+}
+.MainMenu__dropdown--active {
+    background-color: rgb(51, 0, 0);
+    border: none !important;
+}
+.MainHeader__container, .MainMenu__dropdownContent, .MainMenu__navbarItem, .MainMenu__item {
+    background-color: rgba(255, 0, 0, 0.185);
+    border: none !important;
+}
+
+.MainMenu__navbarItem:hover, .MainMenu__item:hover {
+  background-color: rgb(136, 0, 0) !important;
+  border: none !important;
+}
+.GamersClubApp {
+  height: 80px !important;
+  border: none !important;
+}
+.MainHeader__logo {
+  max-width: 65px !important;
+  border: none !important;
+}
+.MainHeader--free{
+  margin-top: -48px;
+  border: none !important;
+}
+.gcf-sidebar {
+  margin-top: -130px !important;
+  border: none !important;
+}
+.gcf-sidebar {
+  min-height: 100vh !important;
+  border: none !important;
+}
+#autoCompleteBtn {
+  margin-left: 10px;
+  margin-bottom: 5px;
+  padding: 13px 21px 13px 21px;
+  border: none !important;
+}
+#criarLobbyBtn {  
+  margin-bottom: 5px;
+  padding: 13px 21px 13px 21px;
+  border: none !important;
+}
+.Topbar__freeBg, .overlay, #GamersClubCSApp-gcMediaNews, #GamersClubCSApp-level21, #GamersClubCSApp-battleExperience, #GamersClubCSApp-gaRecomendation, #GamersClubCSApp-medalBoard, .google-ad-home-top, .main-slideshow, .lobby-header-ads, .MainHeader__navbar--subscriptions, .ProductsHome__section, .sala-video, .Container-csbnwg-0, .StatsBoxRating__CtaSubscribe, .StatsBox__Cta, .SideAdvertisement, .boost-border, .FilterLobby_sectionLabel__1zPew {
+    visibility: hidden;
+    width: 0px;
+    height: 0px;
+    border: none !important;
+}
+.WasdButton, .sc-gsTEea button, .lobby-btn-big, .Tag__tagLabel--success, .rc-switch-checked, .MainHeader__logo, .StatsBoxTab__Button--Active, .Dropdown__items, .WasdCSButton {
+  background-color: rgb(255, 0, 0) !important; 
+  border: none !important;
+}
+.StatsBoxTab__Button:hover {
+  background-color: rgba(255, 0, 0, 0.103) !important; 
+  border: none !important;
+}
+a:hover, h1{
+  color: rgb(255, 0, 0) !important; 
+  border: none !important;
+}
+.Dropdown__items a:hover, .MainHeader__player a:hover, .btn-info:hover, .sala-card-title, .LobbyHeader__title, .section-noticias-title {
+  color: rgb(255, 255, 255) !important; 
+}
+
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+  }
+  
+  /* Track */
+  ::-webkit-scrollbar-track {
+    background: #000000; 
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    background: rgb(17, 17, 23); 
+  }
+  
+  /* Handle on hover */
+  ::-webkit-scrollbar-thumb:hover {
+    background: rgb(24, 24, 32); 
+  }
